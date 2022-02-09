@@ -7,7 +7,7 @@ int main()
 {
     std::cout << "Hello World!\n";
 
-    std::cout << "新規ブランチ作成\n";
+    std::cout << "rimo-tokonfurikuto\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
